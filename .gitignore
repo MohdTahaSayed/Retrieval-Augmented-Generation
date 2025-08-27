@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# LLaMA / model files
+*.gguf
+*.pt
+*.bin
+*.ckpt
+
+# Environment files
+.env
+.venv/
+*.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
